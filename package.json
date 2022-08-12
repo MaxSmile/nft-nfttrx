@@ -1,0 +1,27 @@
+{
+  "name": "nft-nfttrx",
+  "version": "0.1.0",
+  "description": "ERC721 NFT factory for NFTTRX.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nft-nfttrx"
+  },
+  "keywords": [
+    "erc721",
+    "nft",
+    "nfttrx"
+  ],
+  "author": "Maxim Vasilkov <maxim@nfttrx.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.10.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.2"
+  }
+}

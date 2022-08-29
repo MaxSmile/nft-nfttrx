@@ -28,11 +28,15 @@ npx hardhat coverage
 npx hardhat run --network rinkeby scripts/deploy.js
 ```
 
-### Deplyed
+### Deployed
 
 * Rinkeby: 0x287CA45DFE39454FcD6f659B71270aE2364261c7
 
+Example trx: https://rinkeby.etherscan.io/tx/0x7a8c9db8966862770cf5a4df985c0be7db35211547b4ef7a416c8635e6491d7a 
+
 * Ropsten: 0x4DF448941F331fA89EeB4494552622A0245a180c
+
+Example trx: https://ropsten.etherscan.io/tx/0x780d66c6ecf46677d714e963f2773a0cc691819a96a4cdfc3c28ba84630e930f 
 
 ## Hidden information management
 
